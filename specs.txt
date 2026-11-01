@@ -1,0 +1,126 @@
+# Cybersecurity Club – Hardware Specifications
+
+## 1. Networking Equipment
+
+### Router – GL.iNet Flint 2 (GL-MT6000)
+
+**Product:** [Amazon – GL.iNet Flint 2](https://www.amazon.com/dp/B0CP7S3117)  
+**Manufacturer:** GL.iNet  
+**Model:** GL-MT6000
+
+| Specification | Details |
+|---|---|
+| Processor | MediaTek MT7986 |
+| CPU Cores | 4 cores |
+| CPU Frequency | 2.0 GHz |
+| RAM | 1 GB DDR4 |
+| Internal Storage | 8 GB eMMC |
+| Wireless Standard | Wi-Fi 6 (802.11ax) |
+| Wireless Bands | 2.4 GHz and 5 GHz |
+| Maximum Wireless Speed | AX6000 (up to 5,952 Mbps combined theoretical rate) |
+| 2.4 GHz Speed | Up to 1,148 Mbps |
+| 5 GHz Speed | Up to 4,804 Mbps |
+| Ethernet Ports | 6 total |
+| Multi-Gigabit Ports | 2 × 2.5 Gigabit Ethernet |
+| Standard Ethernet Ports | 4 × 1 Gigabit Ethernet |
+| USB | 1 × USB 3.0 |
+| Operating System | OpenWrt-based GL.iNet firmware |
+| VPN Support | OpenVPN and WireGuard |
+
+**Primary Use:**
+- Create isolated networks for cybersecurity testing.
+- Configure VLANs, firewall rules, and network segmentation.
+- Practice routing, DHCP, DNS, and VPN configuration.
+- Analyze network traffic and conduct controlled penetration-testing exercises.
+
+### Network Switch
+
+**Product:** [Amazon – Network Switch](https://www.amazon.com/dp/B0GRCDJJTC)
+
+| Specification | Details |
+|---|---|
+| Manufacturer | Requires verification |
+| Model | Requires verification |
+| Switch Type | Requires verification |
+| Number of Ports | Requires verification |
+| Ethernet Speed | Requires verification |
+| Switching Capacity | Requires verification |
+| Management | Requires verification |
+| VLAN Support | Requires verification |
+
+**Primary Use:**
+- Connect multiple computers and networking devices.
+- Build interconnected lab environments.
+- Practice network segmentation and switching.
+- Support multiple simultaneous cybersecurity workstations.
+
+### Ethernet Cables
+
+**Products:**
+- [Cat6 Ethernet Cable – 3 ft](https://www.amazon.com/dp/B00K2E4QZE)
+- [Cat6 Ethernet Cable – 1 ft](https://www.amazon.com/dp/B00K2E4X2U)
+
+| Specification | Details |
+|---|---|
+| Cable Category | Cat6 |
+| Cable Lengths | 1 ft and 3 ft |
+| Bandwidth | Up to 250 MHz |
+| Standard Ethernet Speed | Up to 1 Gbps |
+| Maximum Standard Channel Length | 100 meters |
+| Connector Type | RJ45 (verify listing) |
+
+---
+
+## 2. Desktop Computer – Club Server
+
+**Product:** [Amazon – Desktop Computer](https://www.amazon.com/dp/B0FX21L82L?th=1)
+
+| Specification | Details |
+|---|---|
+| Manufacturer | Requires verification |
+| Model | Requires verification |
+| Processor | Requires verification |
+| CPU Cores | Requires verification |
+| CPU Threads | Requires verification |
+| Base Clock Speed | Requires verification |
+| Maximum Clock Speed | Requires verification |
+| RAM Capacity | Requires verification |
+| RAM Type | Requires verification |
+| Maximum RAM Capacity | Requires verification |
+| Storage Capacity | Requires verification |
+| Storage Type | Requires verification |
+| Graphics | Requires verification |
+| Network Connectivity | Requires verification |
+| Operating System | Requires verification |
+| Virtualization Support | Requires verification |
+
+**Primary Use:**
+- Host a dedicated cybersecurity club server.
+- Run virtual machines and isolated lab environments.
+- Host internal club services and projects.
+- Support Linux and Windows administration exercises.
+- Provide infrastructure for CTF competitions and cybersecurity workshops.
+
+---
+
+## 3. Budget Allocation
+
+| Equipment | Category | Budget |
+|---|---|---:|
+| Networking Equipment | Capital Item | $300.00 |
+| Desktop Computer | Capital Item | $700.00 |
+| **Total** | | **$1,000.00** |
+
+## 4. Lab Infrastructure Objectives
+
+The equipment will establish a dedicated cybersecurity lab environment supporting:
+
+- Network configuration and administration.
+- Network traffic analysis and packet inspection.
+- Firewall configuration and network segmentation.
+- Virtualization and isolated testing environments.
+- Linux and Windows server administration.
+- Controlled penetration testing.
+- Capture the Flag (CTF) exercises.
+
+All testing will be conducted within authorized and isolated environments.
