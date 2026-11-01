@@ -1,0 +1,12 @@
+# Suricata's listening card on vmbr1 (the attack network).
+# Up at every boot, but with NO IPv4 or IPv6 address, so nothing on the
+# attack Wi-Fi can talk to it. Change the name if your card isn't enp6s20.
+network:
+  version: 2
+  ethernets:
+    enp6s20:
+      dhcp4: false
+      dhcp6: false
+      accept-ra: false
+      link-local: []
+      optional: true
