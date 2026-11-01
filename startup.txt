@@ -1,3 +1,8 @@
 Every time you login:
 source ~/.venvs/lab-agent/bin/activate
 cd /mnt/c/Users/zande/OneDrive/Documents/GitHub/AgenticHomeLab/agent
+
+
+Goal	Turn off	Turn back on
+Off for now (it returns if the VM reboots)	sudo systemctl stop lab-agent	sudo systemctl start lab-agent
+Off until you say so (stays off through reboots)	sudo systemctl disable --now lab-agent	sudo systemctl enable --now lab-agent
