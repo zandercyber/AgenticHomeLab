@@ -1,0 +1,4 @@
+ollama>=0.4
+pydantic>=2
+python-dotenv
+requests
